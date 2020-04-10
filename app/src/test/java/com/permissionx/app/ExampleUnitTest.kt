@@ -1,4 +1,4 @@
-package com.linjunhao.permissionx
+package com.permissionx.app
 
 import org.junit.Test
 
